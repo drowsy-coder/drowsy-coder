@@ -1,6 +1,6 @@
 # Hello!
 
-You hve just landed 🛬 on the front page of my GitHub profile.
+You have just landed 🛬 on the front page of my GitHub profile.
 
 It looks a bit ***empty*** at the moment but as they say, all good things take time. As I continue to learn more about programming, my GitHub profile will start to grow faster than a bamboo! 🎍 
 
