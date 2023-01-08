@@ -9,6 +9,10 @@ It looks a bit ***empty*** at the moment but as they say, all good things take t
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### Get in touch!
 
 <div id="badges">
