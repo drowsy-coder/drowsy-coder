@@ -17,7 +17,8 @@ It looks a bit ***empty*** at the moment but as they say, all good things take t
 
 <hr size="2" noshade="0">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2048%20mins-blue)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2048%20mins-red)
 
 **I'm a Night 🦉** 
 
