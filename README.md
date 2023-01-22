@@ -18,7 +18,7 @@ It looks a bit ***empty*** at the moment but as they say, all good things take t
 <hr size="2" noshade="0">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2045%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -60,7 +60,7 @@ Windows                  1 hr 27 mins        ███████████�
 ```
 
 
- Last Updated on 22/01/2023 04:16:58 UTC
+ Last Updated on 22/01/2023 08:17:11 UTC
 <!--END_SECTION:waka-->
 
 <hr size="2" noshade="0">
