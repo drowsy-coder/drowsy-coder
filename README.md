@@ -18,7 +18,7 @@ It looks a bit ***empty*** at the moment but as they say, all good things take t
 <hr size="2" noshade="0">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -58,7 +58,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/02/2023 12:29:51 UTC
+ Last Updated on 14/02/2023 16:20:17 UTC
 <!--END_SECTION:waka-->
 
 <hr size="2" noshade="0">
