@@ -18,7 +18,7 @@ It looks a bit ***empty*** at the moment but as they say, all good things take t
 <hr size="2" noshade="0">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2011%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -47,18 +47,21 @@ Sunday          21 commits       ███████████░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 mins              ████████████████░░░░░░░░░   64.46 % 
+C                        3 mins              ███████░░░░░░░░░░░░░░░░░░   30.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 14/02/2023 20:16:01 UTC
+ Last Updated on 15/02/2023 01:11:52 UTC
 <!--END_SECTION:waka-->
 
 <hr size="2" noshade="0">
